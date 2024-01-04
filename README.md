@@ -5,7 +5,7 @@ I'm a NodeJs Backend Engineer, I'm passionate about Technology and and Sofware D
 
 **Here's a quick summary about me**:
 
-- 🌱 I’m currently learning and exploring the goodness of JavaScript and NodeJs.
+- 🌱 I’m currently learning and exploring JavaScript and NodeJs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Backend Engineer (Intern or Junior level).
 - 📫 You can contact me by emailing obianukamicheal@gmail.com.
